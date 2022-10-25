@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar{
+    display: flex;
+    flex-direction: row;
+}
+
+.navbar{
+    background-color: blue;
+}
+
+.fa-car, .fa-bars, p{
+    color: white;
+    margin: 10px;
+}
+.fa-bars{
+   padding-left: 100px;
+}
